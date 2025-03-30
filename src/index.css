@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    border-bottom: 3px solid darkviolet !important;
+}
+
+.dropdown-item:hover {
+    background-color: rgba(148, 0, 211, 0.4) !important;
+    color: white !important;
+}
+
+.dropdown-item:focus,
+.dropdown-item:active {
+    background-color: darkviolet !important;
+    color: white !important;
+    outline: none;
+    box-shadow: none;
+}
+
+footer {
+    border-top: 3px solid darkviolet !important;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}

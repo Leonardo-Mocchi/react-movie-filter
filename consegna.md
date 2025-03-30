@@ -12,4 +12,5 @@ Se non viene selezionato alcun genere, devono essere mostrati tutti i film.
 
 BONUS:
 Aggiungere un campo di ricerca per filtrare i film anche per titolo.
+
 Creare un sistema per aggiungere nuovi film alla lista tramite un form.
